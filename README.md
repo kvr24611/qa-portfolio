@@ -60,7 +60,7 @@ Each folder contains detailed README files with instructions on setup, running t
 
 Feel free to reach out to me for any questions or opportunities:
 
-- Email: kabir.raj@example.com  
+- Email: kvr24611@gmail.com  
 - LinkedIn: [linkedin.com/in/kabirrajpanthy](https://linkedin.com/in/kabirrajpanthy)
 
 ---
