@@ -9,9 +9,13 @@ qa-portfolio/
 ├── ui-automation-playwright/     # Playwright project
 │   ├── README.md
 │   ├── playwright.config.ts
+│   ├── package.json
+│   ├── test-data/
+│   ├── uploads/
+│   ├── pages/
 │   ├── tests/
 │   └── workflows/
-│       └── ci.yml
+│       └── run-automation.yml
 ├── api-testing-postman/          # Postman collections and Newman reports
 │   ├── README.md
 │   ├── postman_collection.json
