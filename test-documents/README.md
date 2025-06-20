@@ -22,17 +22,17 @@ Understanding the **difference between a Test Plan and a Test Strategy** is key 
 
 ### 🌍 Real-World Examples:
 
-#### 🔹 Logpoint
-> At **Logpoint**, the QA leadership defined a Test Strategy where:
+#### 🔹 CyberX
+> At **CyberX**, the QA leadership defined a Test Strategy where:
 > - API testing had to be automated using Postman + Newman.
 > - JMeter was the standard for performance tests.
 > - Security testing had to align with OWASP Top 10.
 > - CI pipelines had to include all automated tests via GitHub Actions.
 > - Logs collected by various agents had to be validated in SIEM across different configurations (Linux, Windows, Syslog, etc.).
 
-#### 🔹 FleetPanda
-> At **FleetPanda**, the Test Strategy included:
-> - Prioritizing automation for core features like Order Pipeline, Dispatch, and Inventory.
+#### 🔹 DartaChalani
+> At **DartaChalani**, the Test Strategy included:
+> - Prioritizing automation for core features like Document Processing, Review, and Archive.
 > - UI automation with Playwright, API tests via Postman, and database validation using manual test passes.
 > - Staging and production parity in testing environments.
 > - Use of GitHub Actions for CI/CD and test reports for every pull request.
@@ -60,16 +60,16 @@ Understanding the **difference between a Test Plan and a Test Strategy** is key 
 
 ### 🌍 Real-World Examples:
 
-#### 🔹 Logpoint
-> For the “**Agent v3.5**” release at Logpoint:
+#### 🔹 CyberX
+> For the “**Agent v3.5**” release at CyberX:
 > - **Scope**: Test new log ingestion and parsing enhancements.
 > - **Test Items**: Agent APIs, Configuration UI, Syslog input.
 > - **Timeline**: 10 working days.
 > - **Test cases**: 60 manual, 25 automated.
-> - **Roles**: Nisha (UI), Kabir (API and integration).
+> - **Roles**: Alisha (UI), Kabir (API and integration).
 > - **Out of Scope**: Legacy connectors.
 
-#### 🔹 FleetPanda
+#### 🔹 DartaChalani
 > For the “**Dispatch Optimization**” feature:
 > - **Scope**: Verify automatic assignment logic for drivers based on location, fuel, and route.
 > - **Test Items**: Dispatch UI, backend API, assignment logic, and Google Maps integration.
