@@ -70,13 +70,13 @@ Understanding the **difference between a Test Plan and a Test Strategy** is key 
 > - **Out of Scope**: Legacy connectors.
 
 #### 🔹 DartaChalani
-> For the “**Dispatch Optimization**” feature:
-> - **Scope**: Verify automatic assignment logic for drivers based on location, fuel, and route.
-> - **Test Items**: Dispatch UI, backend API, assignment logic, and Google Maps integration.
+> For the “**Document Optimization**” feature:
+> - **Scope**: Verify automatic assignment logic for review based on seniority, liesure, and department.
+> - **Test Items**: Review UI, backend API, assignment logic, and Google Docs integration.
 > - **Timeline**: 2 sprints (4 weeks).
 > - **Test cases**: 45 automated (Playwright + Postman), 15 exploratory.
 > - **Team**: Rishi (Automation), Kabir (Manual & Coordination), QA Intern (Data setup).
-> - **Out of Scope**: Driver mobile app UI changes.
+> - **Out of Scope**: Mobile app UI changes.
 
 > 🧠 **Think of it as**:  
 > “The **blueprint** for how we’ll test this particular product/release.”
