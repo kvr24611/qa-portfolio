@@ -1,0 +1,3 @@
+[submodule "ui-automation-playwright"]
+	path = ui-automation-playwright
+	url = git@github.com:kvr24611/PlaywrightDemo.git
